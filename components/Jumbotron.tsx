@@ -11,7 +11,7 @@ const Jumbotron = () => {
           WELCOME TO THE
         </div>
 
-        <div className="text-white font-extrabold text-[52px] whitespace-nowrap mt-4">
+        <div className="text-white font-extrabold text-[52px] whitespace-nowrap mt-4 z-50">
           Mentor-Protégé Program Portal
         </div>
 
